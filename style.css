@@ -3,9 +3,9 @@
 
 /* Variáveis CSS para cores */
 :root {
-    --cor-fundo: #FF7F50; /* Laranja coral */
+    --cor-fundo: #c55126; /* Laranja coral */
     --cor-areia: #F5DEB3; /* Branco Areia */
-    --cor-detalhe-laranja: #FF4500; /* Laranja mais intenso para detalhes */
+    --cor-detalhe-laranja: #ef553a; /* Laranja mais intenso para detalhes */
     --cor-texto-escuro: #333;
     --cor-texto-claro: #fff;
     --borda-arredondada: 12px; /* Aumentado para um visual mais arredondado */
@@ -97,7 +97,7 @@ header nav ul li a:focus {
 
 .btn:hover,
 .btn:focus {
-    background-color: #E63900; /* Um tom mais escuro de laranja ao passar o mouse */
+    background-color: #a64c2e; /* Um tom mais escuro de laranja ao passar o mouse */
     transform: translateY(-3px);
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
     outline: none;
